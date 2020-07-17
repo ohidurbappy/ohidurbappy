@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 📫 How to reach me: me@ohidur.com <br>
 ⚡ Fun fact <br>
 Without requirements or design, programming is the art of adding bugs to an empty text file.
+
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
