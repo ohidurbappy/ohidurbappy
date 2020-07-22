@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ohidurbappy)
+
 📫 How to reach me: me@ohidur.com <br>
 ⚡ Fun fact <br>
 Without requirements or design, programming is the art of adding bugs to an empty text file.
