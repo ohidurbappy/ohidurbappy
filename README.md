@@ -23,7 +23,8 @@ I am a passionate self-taught programmer from Bangladesh.
 - 🌱 I’m currently learning Vue JS
 - 👯 I’m looking to collaborate on [Discord Rat](https://github.com/ohidurbappy/discord-rat)
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
+- 📫 How to reach me: me@ohidur.com <br>
 
-📫 How to reach me: me@ohidur.com <br>
+
 ⚡ Fun fact <br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
