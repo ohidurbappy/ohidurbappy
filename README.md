@@ -1,4 +1,10 @@
+<div align="center">
 ### Hi there, I'm [Ohidur Rahman Bappy!](https://www.ohidur.com) 👋
+</div>
+
+<p  align="center">
+<a href="https://www.ohidur.com/">https://www.ohidur.com</a>
+</p>
 
 <br />
 <a href="https://twitter.com/ohidurbappy">
