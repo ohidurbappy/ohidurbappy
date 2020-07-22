@@ -28,7 +28,7 @@ I am a passionate self-taught programmer from Bangladesh.
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
 - 📫 How to reach me: me@ohidur.com <br>
 
-**Languages and Tools:** &npsp;
+**Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
