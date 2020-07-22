@@ -15,8 +15,6 @@
   <img align="left" alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br />
-
 ### Glad to see you here! 🤩 &nbsp;
 
 I am a passionate self-taught programmer from Bangladesh.
