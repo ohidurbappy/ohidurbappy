@@ -11,10 +11,10 @@ I am a passionate self-taught programmer from Bangladesh.
 
 <br />
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.ohidurbappy.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=27" alt="Ohidur's github stats" />
+  <img align="center" src="https://github-readme-stats.ohidurbappy.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=27" alt="Ohidur's github stats" />
 </a>
 
 <br />
