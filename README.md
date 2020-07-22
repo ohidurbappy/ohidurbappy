@@ -1,6 +1,4 @@
-<h4 align="center">
-Hi there, I'm [Ohidur Rahman Bappy!](https://www.ohidur.com) 👋
-</div>
+### Hi there, I'm [Ohidur Rahman Bappy!](https://www.ohidur.com) 👋
 
 <p  align="center">
 <a href="https://www.ohidur.com/">https://www.ohidur.com</a>
