@@ -2,9 +2,6 @@
 
 I am a passionate self-taught programmer from Bangladesh.
 
-<br />
-<br />
-
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -22,7 +19,7 @@ I am a passionate self-taught programmer from Bangladesh.
 </a>
 
 <br />
-<br />
+
 - 🔭 I’m currently working on my project [To Mail](https://github.com/ohidurbappy/ToMail)
 - 🌱 I’m currently learning Vue JS
 - 👯 I’m looking to collaborate on [Discord Rat](https://github.com/ohidurbappy/discord-rat)
