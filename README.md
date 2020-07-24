@@ -1,5 +1,5 @@
 ### Hi there, I'm [Ohidur Rahman Bappy!](https://www.ohidur.com) 👋
-<a style="background-color:#7289DA;" href="https://discord.gg/6uvgmNa">
+<a style="fill:#7289DA;" href="https://discord.gg/6uvgmNa">
   <img align="left" alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg?hex=8334eb" />
 </a>
 <a href="https://twitter.com/ohidurbappy">
