@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ohidur Rahman Bappy!](https://www.ohidur.com) 👋
 <a href="https://discord.gg/6uvgmNa">
-  <img align="left" alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="path.fill:#7289DA;" />
+  <img align="left" alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/ohidurbappy">
   <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
