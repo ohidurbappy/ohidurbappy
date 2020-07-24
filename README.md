@@ -25,7 +25,7 @@
 I am a passionate self-taught programmer from Bangladesh.
 - 🔭 I’m currently working on my project [To Mail](https://github.com/ohidurbappy/ToMail)
 - 🌱 I’m currently learning Vue JS
-- 👯 I’m looking to collaborate on [Discord Rat](https://github.com/ohidurbappy/discord-rat)
+- 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
 - 📫 How to reach me: me@ohidur.com <br>
 
