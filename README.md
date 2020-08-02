@@ -38,7 +38,7 @@ I am a passionate self-taught programmer from Bangladesh.
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&layout=compact&line_height=22" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&layout=compact&line_height=24" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=22" alt="Ohidur's github stats" />
 </p>
 
