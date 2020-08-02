@@ -38,7 +38,7 @@ I am a passionate self-taught programmer from Bangladesh.
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.ohidurbappy.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&hide=html" />
+  <img align="center" src="https://github-readme-stats.ohidurbappy.vercel.app/api/top-langs/?username=ohidurbappy&hide=html&theme=radical" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.ohidurbappy.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=27" alt="Ohidur's github stats" />
