@@ -37,12 +37,10 @@ I am a passionate self-taught programmer from Bangladesh.
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.ohidurbappy.vercel.app/api/top-langs/?username=ohidurbappy&hide=css,html&theme=radical&hidebelow=1" />
-</a>
-<a href="#">
+<p align="center">
+  <img align="center" src="https://github-readme-stats.ohidurbappy.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&hide=css,html" />
   <img align="center" src="https://github-readme-stats.ohidurbappy.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=27" alt="Ohidur's github stats" />
-</a>
+</p>
 
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
