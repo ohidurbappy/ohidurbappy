@@ -47,13 +47,12 @@ I am a passionate self-taught programmer from Bangladesh.
 
 <br />
 
----
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
----
 
----
+--
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -63,8 +62,6 @@ I am a passionate self-taught programmer from Bangladesh.
 - [[Performance Test]Running tensorflow YOLO model on core i3 CPU](https://www.youtube.com/watch?v=fAP34t3LntU)
 - [How to add New Document Option in Ubuntu Context Menu - Bappy Tech Tips](https://www.youtube.com/watch?v=1z4HsA-qDCM)
 <!-- YOUTUBE:END -->
-
----
 
 
 ⚡ Fun fact <br>
