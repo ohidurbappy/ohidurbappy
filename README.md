@@ -28,6 +28,7 @@ I am a passionate self-taught programmer from Bangladesh.
 - 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
 - 📫 How to reach me: me@ohidur.com <br>
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -45,6 +46,21 @@ I am a passionate self-taught programmer from Bangladesh.
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
 <br />
+
+---
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
+
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 
 ⚡ Fun fact <br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
