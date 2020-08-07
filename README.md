@@ -50,6 +50,10 @@ I am a passionate self-taught programmer from Bangladesh.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Google Translate API with python](https://medium.com/@ohidurbappy/how-to-use-google-translate-api-with-python-9e7f1a6f410e?source=rss-a056b351815b------2)
+- [Fetch Google News with python and Google News API](https://medium.com/@ohidurbappy/fetch-google-news-with-python-and-google-news-api-986e8edd043d?source=rss-a056b351815b------2)
+- [How to count total video views of a playlist using python and YouTube data API](https://medium.com/@ohidurbappy/how-to-count-total-video-views-of-a-playlist-using-python-and-youtube-data-api-8d44cab683b0?source=rss-a056b351815b------2)
+- [15 useful htaccess tips and tricks](https://medium.com/@ohidurbappy/15-useful-htaccess-tips-and-tricks-dc7c13c70f29?source=rss-a056b351815b------2)
 <!-- BLOG-POST-LIST:END -->
 
 
