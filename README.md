@@ -67,5 +67,9 @@ I am a passionate self-taught programmer from Bangladesh.
 <!-- YOUTUBE:END -->
 
 
+## I ❤️ Memes
+![Random Memes](https://www.ohidur.com/memes/random.jpg)
+
+
 ⚡ Fun fact <br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
