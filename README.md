@@ -68,7 +68,8 @@ I am a passionate self-taught programmer from Bangladesh.
 
 
 ## I ❤️ Memes
-![Random Memes](https://www.ohidur.com/memes/random.jpg?_n=4)
+
+<img alt="Random Memes" style="max-height:200px;width:auto;" src="https://www.ohidur.com/memes/random.jpg?_n=4">
 
 
 ⚡ Fun fact <br>
