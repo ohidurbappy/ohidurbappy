@@ -71,10 +71,5 @@ I am a passionate self-taught programmer from Bangladesh.
 
 <img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
 
-Bad decisions can be changed at any time, but regret will stay with you for a lifetime.
-A month ago you said "soon." Last week you said "later.” 
-Yesterday you said "tomorrow."
-Let's do it now!
-
 ⚡ Fun fact <br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
