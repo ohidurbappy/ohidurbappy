@@ -27,7 +27,7 @@
 I am a passionate self-taught programmer from Bangladesh.
 - 🔭 I’m currently working on my project [To Mail](https://github.com/ohidurbappy/ToMail)
 - 🌱 I’m currently learning Vue JS
-- 👯 I’m looking to collaborate on [reusable](https://github.com/ohidurbappy/reusable)
+- 👯 I’m looking to collaborate on [Mardown Editor - Editor.md](https://github.com/ohidurbappy/editor.md)
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
 - 📫 How to reach me: me@ohidur.com <br>
 - 🥅 2020 Goals: Contribute more to Open Source projects
