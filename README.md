@@ -25,11 +25,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging in Python](https://www.ohidur.com/posts/python-logging/)
 - [Free resources for developers](https://www.ohidur.com/posts/free-developer-resources/)
 - [Extra steps to send email with python from gmail](https://www.ohidur.com/posts/extra-steps-to-send-mail-with-gmail-python/)
 - [How to setup a radius server on linux](https://www.ohidur.com/posts/setup-radius-server-linux/)
 - [Screen command in linux terminal](https://www.ohidur.com/posts/screen-command-in-linux/)
-- [Capturing HTTP Requests with non-rooted android device](https://www.ohidur.com/posts/capture-http-request-of-android-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
