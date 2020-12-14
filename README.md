@@ -25,11 +25,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add custom domain on Google App Scipt](https://www.ohidur.com/posts/custom-domains-google-appscript/)
+- [Send emails from Google sheet with app script](https://www.ohidur.com/posts/sending-emails-from-google-sheet/)
 - [Python](https://www.ohidur.com/posts/python/)
 - [Caching a response in python](https://www.ohidur.com/posts/python-caching/)
-- [Logging in Python](https://www.ohidur.com/posts/python-logging/)
 - [Free resources for developers](https://www.ohidur.com/posts/free-developer-resources/)
-- [Extra steps to send email with python from gmail](https://www.ohidur.com/posts/extra-steps-to-send-mail-with-gmail-python/)
 <!-- BLOG-POST-LIST:END -->
 
 
