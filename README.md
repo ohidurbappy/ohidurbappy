@@ -25,11 +25,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Developer Roadmap](https://www.ohidur.com/posts/developer-roadmap/)
+- [Standard JSON api response format](https://www.ohidur.com/posts/standard-json-api-response/)
 - [Make a cron job with github action](https://www.ohidur.com/posts/github/make-a-cron-job/)
 - [How to add custom domain on Google App Scipt](https://www.ohidur.com/posts/custom-domains-google-appscript/)
 - [Send emails from Google sheet with app script](https://www.ohidur.com/posts/sending-emails-from-google-sheet/)
-- [Python](https://www.ohidur.com/posts/python/)
-- [Caching a response in python](https://www.ohidur.com/posts/python-caching/)
 <!-- BLOG-POST-LIST:END -->
 
 
