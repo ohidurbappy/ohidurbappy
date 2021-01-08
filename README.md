@@ -23,6 +23,8 @@
   Scripting, Tweaking, Designing and a few more topics of interest.
 </p>
 
+:star: Fun fact: my favorite series are This is Us and Anne with an E
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Visual Studio Code (VSCode) Cheatsheet](https://www.ohidur.com/posts/vscode-cheatsheet/)
@@ -47,7 +49,4 @@
 
 <img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 
-<pre>
-“THE ONLY EASY DAY WAS YESTERDAY.” 
-                 — US. NAVY SEALS
-</pre>
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/ohidurbappy)](https://github.com/ohidurbappy)
