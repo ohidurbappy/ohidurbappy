@@ -23,7 +23,6 @@
   Scripting, Tweaking, Designing and a few more topics of interest.
 </p>
 
-:star: Fun fact: my favorite series are This is Us and Anne with an E
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -48,5 +47,17 @@
 ## I ❤️ Memes | A rand() memes for you :p
 
 <img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
+
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/ohidurbappy)](https://github.com/ohidurbappy)
