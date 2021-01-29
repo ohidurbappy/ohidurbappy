@@ -26,11 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry pi articles by Ohidur Rahman Bappy](https://www.ohidur.com/posts/raspberry-pi/)
 - [Visual Studio Code (VSCode) Cheatsheet](https://www.ohidur.com/posts/vscode-cheatsheet/)
 - [Software and Tools I use everyday as a developer](https://www.ohidur.com/posts/tools-i-use-as-a-developer/)
 - [Developer Roadmap](https://www.ohidur.com/posts/developer-roadmap/)
 - [Standard JSON api response format](https://www.ohidur.com/posts/standard-json-api-response/)
-- [How to add custom domain on Google App Scipt](https://www.ohidur.com/posts/custom-domains-google-appscript/)
 <!-- BLOG-POST-LIST:END -->
 
 
