@@ -27,10 +27,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Raspberry pi articles by Ohidur Rahman Bappy](https://www.ohidur.com/posts/raspberry-pi/)
+- [Creating a Django REST API](https://www.ohidur.com/posts/django-rest-todo/)
 - [Visual Studio Code (VSCode) Cheatsheet](https://www.ohidur.com/posts/vscode-cheatsheet/)
 - [Software and Tools I use everyday as a developer](https://www.ohidur.com/posts/tools-i-use-as-a-developer/)
 - [Developer Roadmap](https://www.ohidur.com/posts/developer-roadmap/)
-- [Standard JSON api response format](https://www.ohidur.com/posts/standard-json-api-response/)
 <!-- BLOG-POST-LIST:END -->
 
 
