@@ -1,6 +1,31 @@
-<h1 align="center"> Hi 👋 there, I'm [Ohidur Rahman Bappy!](https://www.ohidur.com) </h1>
+<h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h4>
 
-<p align="center"><b>Scripting, Tweaking, Designing and a few more topics of interest.</b></p>
+<p align="center">
+  <samp>
+  <a href="https://discord.gg/6uvgmNa">
+  <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/ohidurbappy">
+  <img  alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ohidurbappy/">
+  <img  alt="Ohidur Rahman Bappy's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ohidurbappy">
+  <img  alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/ohidurbappy/">
+  <img  alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ohidurbappy/">
+  <img  alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+  </samp>
+  
+  <br>
+  <b>Scripting, Tweaking, Designing and a few more topics of interest.</b>
+  
+  </p>
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
@@ -13,30 +38,12 @@
 
   </samp>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
+  
+  [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=github/ohidurbappy)](https://github.com/ohidurbappy)
+  
+  <br>
 </p>
 
-
-
-<a href="https://discord.gg/6uvgmNa">
-  <img align="left" alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/ohidurbappy">
-  <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ohidurbappy/">
-  <img align="left" alt="Ohidur Rahman Bappy's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ohidurbappy">
-  <img align="left" alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/ohidurbappy/">
-  <img align="left" alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ohidurbappy/">
-  <img align="left" alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br/>
 
 
 <h2 align="center">I ❤️ Memes | A rand() memes for you :wink:</h2>
@@ -57,7 +64,7 @@
 </p>
 <br/>
 
-
+  
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Raspberry pi articles by Ohidur Rahman Bappy](https://www.ohidur.com/posts/raspberry-pi/)
@@ -77,4 +84,3 @@
 - [How to remove background from image in one click - remove.bg](https://www.youtube.com/watch?v=8Inl23cfjsY)
 <!-- YOUTUBE:END -->
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/ohidurbappy)](https://github.com/ohidurbappy)
