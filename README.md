@@ -64,8 +64,10 @@
 </p>
 <br/>
 
-  
-### 📕 Latest Blog Posts
+<hr>
+ 
+<h3 align="center">📕 Latest Blog Posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Raspberry pi articles by Ohidur Rahman Bappy](https://www.ohidur.com/posts/raspberry-pi/)
 - [Creating a Django REST API](https://www.ohidur.com/posts/django-rest-todo/)
@@ -74,8 +76,8 @@
 - [Developer Roadmap](https://www.ohidur.com/posts/developer-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
+<h3 align="center">📺 Latest YouTube Videos</h3>
 
-### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [What is windows sysinternals software suite and how to access it?](https://www.youtube.com/watch?v=c90j2_8Z-bk)
 - [Deploy python flask app on #Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
