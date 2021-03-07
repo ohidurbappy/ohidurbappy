@@ -39,7 +39,7 @@
   </code>
   <br><br>
   
-  [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=github/ohidurbappy)](https://github.com/ohidurbappy)
+  <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
   
   <br>
 </p>
