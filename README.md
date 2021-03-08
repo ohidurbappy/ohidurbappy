@@ -55,11 +55,10 @@
 <h3 align="center">📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry pi articles by Ohidur Rahman Bappy](https://www.ohidur.com/posts/raspberry-pi/)
-- [Creating a Django REST API](https://www.ohidur.com/posts/django-rest-todo/)
-- [Visual Studio Code (VSCode) Cheatsheet](https://www.ohidur.com/posts/vscode-cheatsheet/)
-- [Software and Tools I use everyday as a developer](https://www.ohidur.com/posts/tools-i-use-as-a-developer/)
-- [Developer Roadmap](https://www.ohidur.com/posts/developer-roadmap/)
+- [How to use Google Translate API with python](https://medium.com/@ohidurbappy/how-to-use-google-translate-api-with-python-9e7f1a6f410e?source=rss-a056b351815b------2)
+- [Fetch Google News with python and Google News API](https://medium.com/@ohidurbappy/fetch-google-news-with-python-and-google-news-api-986e8edd043d?source=rss-a056b351815b------2)
+- [How to count total video views of a playlist using python and YouTube data API](https://medium.com/@ohidurbappy/how-to-count-total-video-views-of-a-playlist-using-python-and-youtube-data-api-8d44cab683b0?source=rss-a056b351815b------2)
+- [15 useful htaccess tips and tricks](https://medium.com/@ohidurbappy/15-useful-htaccess-tips-and-tricks-dc7c13c70f29?source=rss-a056b351815b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">📺 Latest YouTube Videos</h3>
