@@ -23,12 +23,15 @@
   </samp>
   
   <br>
+ </p>
+ 
+
+<code align="center">
   
-  <samp>
-  <eat><sleep><Repeat>
-  </samp>
+  \<eat>\<sleep>\<code>\<Repeat>
   
-  </p>
+</code>
+  
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
