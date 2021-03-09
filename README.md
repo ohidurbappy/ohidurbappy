@@ -24,9 +24,9 @@
   
   <br>
   
-  <pre>
+  <samp>
   <eat><sleep><code><Repeat>
-  </pre>
+  </samp>
   
   </p>
   
