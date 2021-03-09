@@ -23,7 +23,10 @@
   </samp>
   
   <br>
-  <b><code><eat><br><sleep><br><code><br><Repeat></code></b>
+  
+  <pre>
+  <eat><sleep><code><Repeat>
+  </pre>
   
   </p>
   
