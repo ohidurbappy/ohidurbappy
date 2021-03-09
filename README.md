@@ -25,7 +25,7 @@
   <br>
   
   <samp>
-  <eat><sleep><code><Repeat>
+  <eat><sleep><Repeat>
   </samp>
   
   </p>
