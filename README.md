@@ -25,14 +25,6 @@
   <br>
  </p>
  
-
-<code align="center">
-  
-  \<eat>\<sleep>\<code>\<Repeat>
-  
-</code>
-  
-  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
 </p>
