@@ -38,7 +38,7 @@
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&layout=compact&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&layout=compact&bg_color=ffffff&text_color=333333">
 </p>
