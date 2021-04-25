@@ -59,7 +59,7 @@
 <!-- YOUTUBE:END -->
 
 
-<h2 align="center">I ❤️ Memes | A rand() memes for you :wink:</h2>
+<h2 align="center">I ❤️ Memes :wink:</h2>
 <p align="center">
 <img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 </p>
