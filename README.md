@@ -42,7 +42,7 @@
 </p>
 <br/>
 
-<hr>
+
  
 <h3 align="center">📕 Latest Blog Posts</h3>
 
