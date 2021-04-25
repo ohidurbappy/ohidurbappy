@@ -30,12 +30,6 @@
 </p>
 
 
-<h2 align="center">I ❤️ Memes | A rand() memes for you :wink:</h2>
-<p align="center">
-<img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
-</p>
-
-
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
@@ -64,3 +58,8 @@
 - [How to remove background from image in one click - remove.bg](https://www.youtube.com/watch?v=8Inl23cfjsY)
 <!-- YOUTUBE:END -->
 
+
+<h2 align="center">I ❤️ Memes | A rand() memes for you :wink:</h2>
+<p align="center">
+<img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+</p>
