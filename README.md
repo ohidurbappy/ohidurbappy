@@ -52,7 +52,7 @@
 
 <!-- YOUTUBE:START -->
 - [What is windows sysinternals software suite and how to access it?](https://www.youtube.com/watch?v=c90j2_8Z-bk)
-- [Deploy python flask app on #Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
+- [Deploy python flask app on Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
 - [Next Level GitHub Profile README (2020) - Create An Amazing Profile ReadMe With #GitHub Actions](https://www.youtube.com/watch?v=ZnJjJAxaq5Q)
 - [[Tutorial] How to create and destroy DigitalOcean Droplet - Cloud Server - DevOps Guide](https://www.youtube.com/watch?v=YxqQ0oF46bo)
 - [How to remove background from image in one click - remove.bg](https://www.youtube.com/watch?v=8Inl23cfjsY)
