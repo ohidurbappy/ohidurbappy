@@ -1,5 +1,5 @@
 
-<h2>Latest Blog Posts</h2>
+<h4>Latest Blog Posts</h4>
 
 <!-- BLOG-POST-LIST:START -->
 - [C Sharp code snippets](https://blog.ohidur.com/posts/c-sharp-sinppets/)
@@ -9,7 +9,7 @@
 - [Software and Tools I use everyday as a developer](https://blog.ohidur.com/posts/tools-i-use-as-a-developer/)
 <!-- BLOG-POST-LIST:END -->
 
-<h2>Latest YouTube Videos</h2>
+<h4>Latest YouTube Videos</h4>
 
 <!-- YOUTUBE:START -->
 - [Deploy python flask app on Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
