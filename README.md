@@ -1,5 +1,36 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
+</p>
 
-<h4>Latest Blog Posts</h4>
+<h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h4>
+
+<p align="center">
+  <samp>
+  <a href="https://discord.gg/6uvgmNa">
+  <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/ohidurbappy">
+  <img  alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ohidurbappy/">
+  <img  alt="Ohidur Rahman Bappy's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ohidurbappy">
+  <img  alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/ohidurbappy/">
+  <img  alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ohidurbappy/">
+  <img  alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+  </samp>
+  
+  <br>
+ </p>
+ 
+ 
+<h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [C Sharp code snippets](https://blog.ohidur.com/posts/c-sharp-sinppets/)
@@ -9,7 +40,7 @@
 - [Software and Tools I use everyday as a developer](https://blog.ohidur.com/posts/tools-i-use-as-a-developer/)
 <!-- BLOG-POST-LIST:END -->
 
-<h4>Latest YouTube Videos</h4>
+<h3>📺 Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
 - [Deploy python flask app on Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
@@ -18,3 +49,18 @@
 - [How to remove background from image in one click - remove.bg](https://www.youtube.com/watch?v=8Inl23cfjsY)
 - [BSMRSTU APP | PROMO](https://www.youtube.com/watch?v=V27slfMxIjs)
 <!-- YOUTUBE:END -->
+
+
+<h2>🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</p>
+<br/>
+
+<h2>I ❤️ Memes :wink:</h2>
+<p align="center">
+<img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+</p>
+
+
+
