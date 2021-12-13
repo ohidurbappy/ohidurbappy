@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
 </p>
 
-<h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h4>
+<h2 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h2>
 
 <p align="center">
   <samp>
