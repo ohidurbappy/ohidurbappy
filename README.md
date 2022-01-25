@@ -69,7 +69,11 @@
 ⚡ Fun fact <br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ohidurbappy)
+<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ohidurbappy) -->
+<a href="https://www.buymeacoffee.com/ohidurbappy">
+<img width="220" height="auto" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?w=384&q=75" />
+</a>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
