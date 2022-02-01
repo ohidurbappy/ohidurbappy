@@ -71,7 +71,7 @@
 
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ohidurbappy) -->
 <a href="https://www.buymeacoffee.com/ohidurbappy">
-<img width="220" height="auto" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?w=384&q=75" />
+<img width="140" height="auto" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?w=384&q=75" />
 </a>
 
 
