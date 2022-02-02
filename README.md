@@ -1,11 +1,8 @@
-
 <div align='center'>
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-  <h2 align="center">I'm <br> <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h2>
+  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
+  <br>I'm <br> <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h2>
  </div>
-
-
 
 <p align="center">
   <samp>
