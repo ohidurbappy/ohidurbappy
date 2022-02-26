@@ -7,22 +7,22 @@
 <p align="center">
   <samp>
   <a href="https://discord.gg/6uvgmNa">
-  <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
+  <img  alt="Ohidur N Friends Discord Server" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/ohidurbappy">
-  <img  alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
+  <img  alt="Ohidur Rahman Bappy's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ohidurbappy/">
-  <img  alt="Ohidur Rahman Bappy's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
+  <img  alt="Ohidur Rahman Bappy's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ohidurbappy">
-  <img  alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
+  <img  alt="Ohidur Rahman Bappy's Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 </a>
 <a href="https://instagram.com/ohidurbappy/">
-  <img  alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
+  <img  alt="Ohidur Rahman Bappy's Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ohidurbappy/">
-  <img  alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />
+  <img  alt="Ohidur Rahman Bappy's Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />
 </a>
   </samp>
   
