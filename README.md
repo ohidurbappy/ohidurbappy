@@ -30,6 +30,15 @@
  </p>
  
  
+ <p align="center">
+	<a href="mailto:me@ohidur.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/me@ohidur.com-_?label=Send%20Mail&style=social&logo=gmail" alt="me@ohidur.com"></a>
+	<a href="https://twitter.com/ohidurbappy"><img src="https://img.shields.io/twitter/follow/ohidurbappy" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/ohidurbappy"><img src="https://img.shields.io/badge/-122-_?label=LinkedIn&style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://medium.com/@ohidurbappy"><img src="http://img.shields.io/badge/-@ohidurbappy-_?label=Medium&style=social&logo=medium" alt="Medium"></a>
+</p>
+
+ 
+ 
 <h3>📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
