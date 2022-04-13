@@ -3,7 +3,7 @@
   <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
   <br>I'm <br> <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h2>
  </div>
-
+ 
 <p align="center">
   <samp>
   <a href="https://discord.gg/6uvgmNa">
@@ -37,7 +37,22 @@
 	<a href="https://medium.com/@ohidurbappy"><img src="http://img.shields.io/badge/-@ohidurbappy-_?label=Medium&style=social&logo=medium" alt="Medium"></a>
 </p>
 
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+</p>
  
+ 
+ 
+ ### Glad to see you here! 🤩 &nbsp;
+I am a passionate self-taught programmer from Bangladesh.
+- 🔭 I’m currently working on my project [To Mail](https://github.com/ohidurbappy/ToMail)
+- 🌱 I’m currently learning Docker
+- 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
+- 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
+- 📫 How to reach me: me@ohidur.com <br>
+- 🥅 2022 Goals: Hmm..thinking.!
  
 <h3>📕 Latest Blog Posts</h3>
 
@@ -60,13 +75,13 @@
 <!-- YOUTUBE:END -->
 
 
-<h3>🐦 Github Statistics </h3>
+<!-- <h3>🐦 Github Statistics </h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </p>
-<br/>
+<br/> -->
 
-<h3>I ❤️ Memes :wink:</h3>
+<h3 align="center">I ❤️ Memes :wink:</h3>
 <p align="center">
 <img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 </p>
