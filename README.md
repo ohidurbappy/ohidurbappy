@@ -1,7 +1,7 @@
 <div align='center'>
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
   <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
-  <br>I'm <br> <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h2>
+  </h2>
  </div>
  
 <p align="center">
@@ -46,8 +46,8 @@
  
  
  ### Glad to see you here! 🤩 &nbsp;
-I am a passionate self-taught programmer from Bangladesh.
-- 🔭 I’m currently working on my project [To Mail](https://github.com/ohidurbappy/ToMail)
+
+- 🔭 I’m currently looking at the mars
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
