@@ -44,6 +44,17 @@
 </p>
  
  
+### Trophies
+
+<div align="center">
+<img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ohidurbappy&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
+</div>
+
+### Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ohidurbappy&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
  
  ### Glad to see you here! 🤩 &nbsp;
 
@@ -87,6 +98,16 @@
 </p>
 
 
+
+<div align="center">
+	<h3>Profile Views</h3>
+  <img src="https://count.getloli.com/get/@ohidurbappy.github.readme" alt="ohidurbappy" /> 
+</div>
+
+
+
+
+
 ⚡ Fun fact <br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
@@ -94,21 +115,6 @@
 <a href="https://www.buymeacoffee.com/ohidurbappy">
 <img width="140" height="auto" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?w=384&q=75" />
 </a>
-
-
-
-### Trophies
-
-<div align="center">
-<img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ohidurbappy&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
-</div>
-
-
-### Profile Views
-
-![](https://count.getloli.com/get/@ohidurbappy.github.readme)
-</br>
-
 
 
 <p align="right">
