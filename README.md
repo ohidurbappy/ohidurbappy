@@ -78,11 +78,11 @@
 <h3>📺 Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Do all the best you can. #shorts](https://www.youtube.com/watch?v=lhzvNz7ZCLU)
 - [Linus Torvalds talks about Elon Musk &lpar;Tesla&rpar;](https://www.youtube.com/watch?v=KN70VZy693k)
 - [Deploy python flask app on Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
 - [Next Level GitHub Profile README &lpar;2020&rpar; - Create An Amazing Profile ReadMe With #GitHub Actions](https://www.youtube.com/watch?v=ZnJjJAxaq5Q)
 - [[Tutorial] How to create and destroy DigitalOcean Droplet - Cloud Server - DevOps Guide](https://www.youtube.com/watch?v=YxqQ0oF46bo)
-- [How to remove background from image in one click - remove.bg](https://www.youtube.com/watch?v=8Inl23cfjsY)
 <!-- YOUTUBE:END -->
 
 
