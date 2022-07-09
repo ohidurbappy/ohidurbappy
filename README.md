@@ -98,12 +98,12 @@
 </p>
 
 
-
+<!--
 <div align="center">
 	<h3>Profile Views</h3>
   <img src="https://count.getloli.com/get/@ohidurbappy.github.readme" alt="ohidurbappy" /> 
 </div>
-
+-->
 
 
 
