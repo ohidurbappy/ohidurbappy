@@ -1,9 +1,49 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+<!--  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
+  </h2> -->
+
+
 <div align='center'>
+<h1 align="center">Hello there, I'm Mr.ORB 👋</h1>
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
-  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
-  </h2>
+ 
+  <h4 align="center"><b>Talking is priceless, show me your code.</b></h4>
  </div>
  
+ <p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ohidurbappy/count.svg" />
+</p>
+
+
+<br>
+
+<p align="center">
+<a href="https://twitter.com/ohidurbappy"><img  alt="Ohidur Rahman Bappy's Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ohidurbappy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:me+github_readme@ohidur.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.facebook.com/ohidurbappy/"><img  alt="Ohidur Rahman Bappy's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<br>
+
+
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+ ### I am a Self-taught Programmer; 🤩 &nbsp;
+- 🔭 I’m currently looking at the mars
+- 🌱 I’m currently learning Docker
+- 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
+- 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
+- 📫 How to reach me: me@ohidur.com <br>
+- 🥅 2022 Goals: Hmm..thinking.!
+- 🧗 I try to: Go beyond and push the boundaries!
+- ⚡ Fun fact: I love working by myself.
+
+<br>
+ 
+ <!--
 <p align="center">
   <samp>
   <a href="https://discord.gg/6uvgmNa">
@@ -28,7 +68,7 @@
   
   <br>
  </p>
- 
+ -->
  
  
  
@@ -39,6 +79,7 @@
 
 
 
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
  
  <p align="center">
 	<a href="mailto:me@ohidur.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/me@ohidur.com-_?label=Send%20Mail&style=social&logo=gmail" alt="me@ohidur.com"></a>
@@ -50,7 +91,7 @@
 
 <p align="center">
   <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&layout=compact" />
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=31" alt="Ohidur's github stats"/>
 </p>
  
  
@@ -61,16 +102,11 @@
 </div>
 
 
- 
- 
- ### Glad to see you here! 🤩 &nbsp;
 
-- 🔭 I’m currently looking at the mars
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
-- 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
-- 📫 How to reach me: me@ohidur.com <br>
-- 🥅 2022 Goals: Hmm..thinking.!
+ 
+ 
+<h3 align="right">I ❤️ Memes :wink:</h3>
+<img align="right" alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
  
 <h3>📕 Latest Blog Posts</h3>
 
@@ -99,10 +135,8 @@
 </p>
 <br/> -->
 
-<h3 align="center">I ❤️ Memes :wink:</h3>
-<p align="center">
-<img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
-</p>
+
+
 
 
 <!--
@@ -114,11 +148,16 @@
 
 
 
+<h1></h1>
 
-⚡ Fun fact <br>
+<p>
+⚡ <b>Fun fact</b> <br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+</p>
 
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ohidurbappy) -->
+
+<br>
 <a href="https://www.buymeacoffee.com/ohidurbappy">
 <img width="140" height="auto" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?w=384&q=75" />
 </a>
