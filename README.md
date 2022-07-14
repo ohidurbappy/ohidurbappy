@@ -1,3 +1,5 @@
+<b>
+
 [![Matrix SVG](https://raw.githubusercontent.com/ohidurbappy/uploads/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!--  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
@@ -8,7 +10,7 @@
 <h1 align="center">Hello there, I'm Mr.ORB 👋</h1>
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
  
-  <h4 align="center"><b>“Talk is cheap. Show me the code.”</h4>
+  <h4 align="center">“Talk is cheap. Show me the code.”</h4>
   <h6 align="center"> ~ Linus Torvalds</h6>
  </div>
  
@@ -167,3 +169,4 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
 </p>
+</b>
