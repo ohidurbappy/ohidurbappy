@@ -30,6 +30,16 @@
  </p>
  
  
+ 
+ 
+ ### Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ohidurbappy&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+ 
  <p align="center">
 	<a href="mailto:me@ohidur.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/me@ohidur.com-_?label=Send%20Mail&style=social&logo=gmail" alt="me@ohidur.com"></a>
 	<a href="https://twitter.com/ohidurbappy"><img src="https://img.shields.io/twitter/follow/ohidurbappy" alt="Twitter"></a>
@@ -50,10 +60,7 @@
 <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ohidurbappy&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
 </div>
 
-### Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ohidurbappy&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
  
  ### Glad to see you here! 🤩 &nbsp;
