@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/ohidurbappy/uploads/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!--  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
   </h2> -->
@@ -30,7 +30,7 @@
 
 
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 
  ### I am a Self-taught Programmer; 🤩 &nbsp;
 - 🔭 I’m currently looking at the mars
