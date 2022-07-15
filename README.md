@@ -7,7 +7,11 @@
 
 
 <div align='center'>
-<h1 align="center">Hello there, I'm Mr.ORB 👋</h1>
+
+[![Ohidur Rahman Bappy - Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohidurbappy/ohidurbappy/discussions/new?category=ask-me-anything)
+
+# Hello, I'm [Mr.ORB](https://www.ohidur.com)! 👋🍓 🍫
+
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
  
   <h4 align="center">“Talk is cheap. Show me the code.”</h4>
@@ -22,6 +26,7 @@
 <br>
 
 <p align="center">
+<a href="https://www.ohidur.com"><img  alt="Ohidur Rahman Bappy's Twitter"  src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=wikipedia&logoColor=white&color=black" /></a>&nbsp;
 <a href="https://twitter.com/ohidurbappy"><img  alt="Ohidur Rahman Bappy's Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ohidurbappy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:me+github_readme@ohidur.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
