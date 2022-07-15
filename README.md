@@ -10,7 +10,7 @@
 
 [![Ohidur Rahman Bappy - Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohidurbappy/ohidurbappy/discussions/new?category=ask-me-anything)
 
-# Hello, I'm [Mr.ORB](https://www.ohidur.com)! 👋🍓 🍫
+# 👋 Hello, I'm [Mr.ORB](https://www.ohidur.com)! 🍓 🍫
 
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
  
