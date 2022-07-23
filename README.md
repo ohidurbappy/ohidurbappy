@@ -1,12 +1,17 @@
 <b>
 
+<!-- 
 [![Matrix SVG](https://raw.githubusercontent.com/ohidurbappy/uploads/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!--  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
+ <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
   </h2> -->
 
 
 <div align='center'>
+
+
+|![Profile Views](https://komarev.com/ghpvc/?username=ohidurbappy&color=green) | ![Followers](https://img.shields.io/github/followers/ohidurbappy) | ![Stars](https://img.shields.io/github/stars/ohidurbappy?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --|
 
 [![Ohidur Rahman Bappy - Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohidurbappy/ohidurbappy/discussions/new?category=ask-me-anything)
 
