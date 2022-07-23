@@ -10,25 +10,22 @@
 <div align='center'>
 
 
-|![Profile Views](https://komarev.com/ghpvc/?username=ohidurbappy&color=green) | ![Followers](https://img.shields.io/github/followers/ohidurbappy) | ![Stars](https://img.shields.io/github/stars/ohidurbappy?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
---| --| --|
-
-[![Ohidur Rahman Bappy - Ask Me Anything](https://img.shields.io/static/v1?label=GitHub%20Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohidurbappy/ohidurbappy/discussions/new?category=ask-me-anything)
-
 # 👋 Hello, I'm [Mr.ORB](https://www.ohidur.com)! 🍓 🍫
 
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
  
   <h4 align="center">“Talk is cheap. Show me the code.”</h4>
   <h6 align="center"> ~ Linus Torvalds</h6>
+
+
+[![Ohidur Rahman Bappy - Ask Me Anything](https://img.shields.io/static/v1?label=Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohidurbappy/ohidurbappy/discussions/new?category=ask-me-anything)
+	
+	
  </div>
  
- <p align="center">
+<!--  <p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ohidurbappy/count.svg" />
-</p>
-
-
-<br>
+</p> -->
 
 <p align="center">
 <a href="https://www.ohidur.com"><img  alt="Ohidur Rahman Bappy's Twitter"  src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=wikipedia&logoColor=white&color=black" /></a>&nbsp;
@@ -183,6 +180,8 @@
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
+<img src="https://komarev.com/ghpvc/?username=ohidurbappy&color=blue" alt="profile views" /> 
+<img src="https://img.shields.io/github/followers/ohidurbappy" alt="followers" /> 
+<img src="https://img.shields.io/github/stars/ohidurbappy?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" alt="stars" /> 
 </p>
 </b>
