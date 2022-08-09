@@ -128,10 +128,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Using Nginx container as a load balancer](https://blog.ohidur.com/posts/nginx-load-balancer/)
+- [ESP32/ESP8266 MicroPython OTA Updates via Python Server](https://blog.ohidur.com/posts/esp8266-micropython-ota-updates/)
 - [Micropython Code optimization](https://blog.ohidur.com/posts/micropython-code-optimization/)
 - [Micropython on ESP8266](https://blog.ohidur.com/posts/esp8266-micropython/)
 - [C Sharp code snippets](https://blog.ohidur.com/posts/c-sharp-sinppets/)
-- [Raspberry pi articles by Ohidur Rahman Bappy](https://blog.ohidur.com/posts/raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>📺 Latest YouTube Videos</h3>
