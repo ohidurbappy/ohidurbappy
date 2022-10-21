@@ -42,8 +42,8 @@
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 
  ### I am a Self-taught Programmer; 🤩 &nbsp;
-- 🔭 I’m currently looking at the mars
-- 🌱 I’m currently learning Docker
+- 🔭 Looking for freelance opportunities
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
 - 📫 How to reach me: me@ohidur.com <br>
