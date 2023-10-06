@@ -130,11 +130,11 @@
 <h3>📺 Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Talk to ChatGPT. Face Recognition. Speech Recognition. Text to speech. #gpt #gpt3 #openai #chatgpt](https://www.youtube.com/watch?v=FlhWTaJyuds)
 - [UNBOXING Netac Portable SSD | ZSlim](https://www.youtube.com/watch?v=NHDdpHfj19I)
 - [Dall.E demo . Digital art. Horse and cat football team.](https://www.youtube.com/watch?v=pDTODWPoeE4)
 - [Do all the best you can. #shorts](https://www.youtube.com/watch?v=lhzvNz7ZCLU)
 - [Linus Torvalds talks about Elon Musk &lpar;Tesla&rpar;](https://www.youtube.com/watch?v=KN70VZy693k)
-- [Deploy python flask app on Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
 <!-- YOUTUBE:END -->
 
 
