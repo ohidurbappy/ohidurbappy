@@ -1,3 +1,23 @@
+<!--
+ <div id="badges">
+   <a href="https://www.linkedin.com/in/ohidurbappy">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://twitter.com/ohidurbappy">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+
+   <img  align="right" src="https://komarev.com/ghpvc/?username=ohidurbappy&label=Profile%20views&color=green&style=flat" alt="ohidur" />
+   <a align="right" href="https://github.com/?tab=ohidurbappyfollowers">
+      <img  align="right" src="https://img.shields.io/github/followers/ohidurbappy?username=ohidurbappy&label=Followers" alt="ohidurbappy" />
+   </a>
+</div>
+-->
+
+
+
+
+
 <b>
 
 <!-- 
@@ -10,12 +30,19 @@
 <div align='center'>
 
 
-# 👋 Hello, I'm [Mr.ORB](https://www.ohidur.com)! 🍓 🍫
+#  🍓 🍫 Hello, I'm [Mr.ORB](https://www.ohidur.com)! 👋
 
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
- 
-  <h4 align="center">“Talk is cheap. Show me the code.”</h4>
-  <h6 align="center"> ~ Linus Torvalds</h6>
+
+<h3 align="center">A Full-stack Developer from 🇧🇩 </h3>
+<h4 align="center">“Talk is cheap. Show me the code.”</h4>
+<h6 align="center"> ~ Linus Torvalds</h6>
+
+<div align="center">
+
+![Ohidur](gitartwork.svg)
+
+</div>
 
 
 [![Ohidur Rahman Bappy - Ask Me Anything](https://img.shields.io/static/v1?label=Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohidurbappy/ohidurbappy/discussions/new?category=ask-me-anything)
