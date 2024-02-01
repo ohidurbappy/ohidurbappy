@@ -74,9 +74,8 @@
 - 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
 - 📫 How to reach me: me@ohidur.com <br>
-- 🥅 2022 Goals: Hmm..thinking.!
+- 🥅 2024 Goals: Just living my life.
 - 🧗 I try to: Go beyond and push the boundaries!
-- ⚡ Fun fact: I love working by myself.
 
 <br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
