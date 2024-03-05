@@ -38,6 +38,7 @@
 <h4 align="center">“Talk is cheap. Show me the code.”</h4>
 <h6 align="center"> ~ Linus Torvalds</h6>
 
+<!-- 
 <div align="center">
 
 ![Ohidur](gitartwork.svg)
@@ -49,6 +50,8 @@
 	
 	
  </div>
+
+ -->
  
 <!--  <p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ohidurbappy/count.svg" />
