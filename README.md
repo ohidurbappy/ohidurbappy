@@ -18,9 +18,6 @@
   <a href="https://www.linkedin.com/in/ohidurbappy/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:me+github_readme@ohidur.com?subject=Hi, there">
-    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.facebook.com/ohidurbappy/">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
@@ -34,7 +31,6 @@
 - 🌱 I'm currently learning Flutter
 - 👯 I'm looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
-- 📫 How to reach me: me@ohidur.com
 - 🥅 2024 Goals: Just living my life
 - 🧗 I try to: Go beyond and push the boundaries!
 
