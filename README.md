@@ -62,12 +62,6 @@
   <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=vue-dark&line_height=31" alt="Ohidur's github stats"/>
 </p>
 
-### Trophies
-
-<div align="center">
-  <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ohidurbappy&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
-</div>
-
 <h3 align="right">I ❤️ Memes :wink:</h3>
 <img align="right" alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 
