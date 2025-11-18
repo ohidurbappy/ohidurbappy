@@ -68,11 +68,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Nginx container as a load balancer](https://blog.ohidur.com/posts/nginx-load-balancer/)
-- [ESP32/ESP8266 MicroPython OTA Updates via Python Server](https://blog.ohidur.com/posts/esp8266-micropython-ota-updates/)
-- [Micropython Code optimization](https://blog.ohidur.com/posts/micropython-code-optimization/)
-- [Micropython on ESP8266](https://blog.ohidur.com/posts/esp8266-micropython/)
-- [C Sharp code snippets](https://blog.ohidur.com/posts/c-sharp-sinppets/)
+- [How to use Google Translate API with python](https://medium.com/@ohidurbappy/how-to-use-google-translate-api-with-python-9e7f1a6f410e?source=rss-a056b351815b------2)
+- [Fetch Google News with python and Google News API](https://medium.com/@ohidurbappy/fetch-google-news-with-python-and-google-news-api-986e8edd043d?source=rss-a056b351815b------2)
+- [How to count total video views of a playlist using python and YouTube data API](https://medium.com/@ohidurbappy/how-to-count-total-video-views-of-a-playlist-using-python-and-youtube-data-api-8d44cab683b0?source=rss-a056b351815b------2)
+- [15 useful htaccess tips and tricks](https://medium.com/@ohidurbappy/15-useful-htaccess-tips-and-tricks-dc7c13c70f29?source=rss-a056b351815b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
