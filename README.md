@@ -31,12 +31,12 @@ Software developer who enjoys turning real-world problems into clean, working co
 ### GitHub at a glance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="stats">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ohidurbappy&theme=tokyonight" alt="stats">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ohidurbappy&hide_border=true&theme=tokyonight" alt="streak">
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" alt="top languages">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ohidurbappy&theme=tokyonight" alt="top languages">
 </p>
 
 ---
